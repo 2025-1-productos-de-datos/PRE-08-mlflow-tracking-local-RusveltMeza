@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Visitante\Documents\Productos de Datos\PRE-08-mlflow-tracking-local-anortizb\my_mlruns/315223468884957121/736c08584dc44bbe868eec7bb62f0f0b/artifacts
+end_time: 1748100532554
+entry_point_name: ''
+experiment_id: '315223468884957121'
+lifecycle_stage: active
+run_id: 736c08584dc44bbe868eec7bb62f0f0b
+run_name: knn_8755b51f
+run_uuid: 736c08584dc44bbe868eec7bb62f0f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100532442
+status: 3
+tags: []
+user_id: Visitante

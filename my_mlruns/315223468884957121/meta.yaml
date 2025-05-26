@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Visitante\Documents\Productos de Datos\PRE-08-mlflow-tracking-local-anortizb\my_mlruns/315223468884957121
+creation_time: 1748100532202
+experiment_id: '315223468884957121'
+last_update_time: 1748100532202
+lifecycle_stage: active
+name: wine_quality_experiment
